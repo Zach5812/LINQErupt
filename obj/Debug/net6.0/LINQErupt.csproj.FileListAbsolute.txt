@@ -1,0 +1,15 @@
+C:\Users\zachl\Desktop\C#\fundamentals\LINQErupt\bin\Debug\net6.0\LINQErupt.exe
+C:\Users\zachl\Desktop\C#\fundamentals\LINQErupt\bin\Debug\net6.0\LINQErupt.deps.json
+C:\Users\zachl\Desktop\C#\fundamentals\LINQErupt\bin\Debug\net6.0\LINQErupt.runtimeconfig.json
+C:\Users\zachl\Desktop\C#\fundamentals\LINQErupt\bin\Debug\net6.0\LINQErupt.dll
+C:\Users\zachl\Desktop\C#\fundamentals\LINQErupt\bin\Debug\net6.0\LINQErupt.pdb
+C:\Users\zachl\Desktop\C#\fundamentals\LINQErupt\obj\Debug\net6.0\LINQErupt.csproj.AssemblyReference.cache
+C:\Users\zachl\Desktop\C#\fundamentals\LINQErupt\obj\Debug\net6.0\LINQErupt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zachl\Desktop\C#\fundamentals\LINQErupt\obj\Debug\net6.0\LINQErupt.AssemblyInfoInputs.cache
+C:\Users\zachl\Desktop\C#\fundamentals\LINQErupt\obj\Debug\net6.0\LINQErupt.AssemblyInfo.cs
+C:\Users\zachl\Desktop\C#\fundamentals\LINQErupt\obj\Debug\net6.0\LINQErupt.csproj.CoreCompileInputs.cache
+C:\Users\zachl\Desktop\C#\fundamentals\LINQErupt\obj\Debug\net6.0\LINQErupt.dll
+C:\Users\zachl\Desktop\C#\fundamentals\LINQErupt\obj\Debug\net6.0\refint\LINQErupt.dll
+C:\Users\zachl\Desktop\C#\fundamentals\LINQErupt\obj\Debug\net6.0\LINQErupt.pdb
+C:\Users\zachl\Desktop\C#\fundamentals\LINQErupt\obj\Debug\net6.0\LINQErupt.genruntimeconfig.cache
+C:\Users\zachl\Desktop\C#\fundamentals\LINQErupt\obj\Debug\net6.0\ref\LINQErupt.dll
